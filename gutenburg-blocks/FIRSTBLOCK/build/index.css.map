@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAEA;EACI;AADJ,C","sources":["webpack://firstblock/./src/editor.scss"],"sourcesContent":["$color: yellow;\n\n.wp-block-adamj-firstblock {\n    border: 2px solid $color;\n}"],"names":[],"sourceRoot":""}
